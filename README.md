@@ -8,7 +8,7 @@ A  Direct Youtube(audio+video+subtitles) downloader from Ubuntu terminal.
 * Beautiful Soup
 * urllib
 
-## Websites Accessed
+## Websites Accessed:
 * www.youtube.com
 * www.ccsubs.com
 
