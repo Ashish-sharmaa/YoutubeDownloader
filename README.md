@@ -21,7 +21,7 @@ A  Direct Youtube(audio+video+subtitles) downloader from Ubuntu terminal.
 * Enter 1 for audio(best quality) else 2 for video.
 * If chosen 1:
     * Best available quality audio will get downloaded.
-* Otherwise 2:
+* Otherwise, if chosen 2:
    * You will be provided a list of available formats videos along with their respective qualities and size.
    * Choose any one of them by entering their index.
    * A video of specified quality along with subtitle file will be downloaded under the name of the video title.
