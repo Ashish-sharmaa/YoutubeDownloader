@@ -15,8 +15,7 @@ A  Direct Youtube(audio+video+subtitles) downloader from Ubuntu terminal.
 ## Steps:
 * Download youtube.py file to your system.
 * On Ubuntu terminal type command : 
-
-        * python3 youtube.py
+    * python3 youtube.py
 * Then enter the video/audio name you want to  search on youtube.com.
 * Out of the 15 vidoes list, choose index of any one you wnat to download.
 * Enter 1 for audio(best quality) else 2 for video.
